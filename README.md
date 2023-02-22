@@ -11,7 +11,6 @@ import pandas as pd
 df = pd.read_csv('Dataset/dataset.csv')
 df.drop("Unnamed: 0", axis='columns', inplace=True)
 df.head()
-     
 ```
 
 
