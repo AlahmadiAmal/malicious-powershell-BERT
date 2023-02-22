@@ -1,7 +1,7 @@
 ## Dataset
 
-The dataset folder contains the numpy arrays containing the tokenized scripts using PSParser. 
-As well as the dataset dataframe created in the notebook. 
+The dataset folder contains the dataset dataframe containing the tokenized scripts using PSParser as well as the script itself.
+The 0 label is used to indicate a malicious script while 1 is for a benign script.  
 
 
 Loading the dataset 
